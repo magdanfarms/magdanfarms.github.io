@@ -1,4 +1,19 @@
 .carousel-img{
-    height:632px;
-    width: 700px;
+     height:537px;
+     /* height:402px; */
+    width: 600px;
+}
+
+.custom-dark-green{
+    background-color: #2E7D32; 
+}
+
+.custom-text-dark-green{
+    color: white; 
+}
+
+
+.carousel{
+    margin:10;
+    padding: 0;
 }
