@@ -16,3 +16,36 @@
     margin:10;
     padding: 0;
 }
+
+/* Small screens */
+@media (max-width: 576px) {
+    .custom-image {
+        height: 300px;
+        width: 600px;
+    }
+  }
+  
+  /* Medium screens */
+  @media (min-width: 577px) and (max-width: 768px) {
+    .custom-image {
+        height: 550px;
+        width: 600px;
+    }
+  }
+  
+  /* Large screens */
+  @media (min-width: 769px) and (max-width: 992px) {
+    .custom-image {
+        height: 600px;
+        width: 600px;
+    }
+  }
+  
+  /* Extra-large screens */
+  @media (min-width: 993px) {
+    .custom-image {
+        width: 600px;
+        height: 600px;
+    }
+  }
+  
