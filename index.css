@@ -23,6 +23,9 @@
         height: 300px;
         width: 600px;
     }
+    .custom-margin-top-nav-fixed-top{
+        margin-top: 10%;
+    }
   }
   
   /* Medium screens */
@@ -30,6 +33,10 @@
     .custom-image {
         height: 550px;
         width: 600px;
+    }
+
+    .custom-margin-top-nav-fixed-top{
+        margin-top: 7%;
     }
   }
   
@@ -39,6 +46,10 @@
         height: 600px;
         width: 600px;
     }
+
+    .custom-margin-top-nav-fixed-top{
+        margin-top: 5%;
+    }
   }
   
   /* Extra-large screens */
@@ -46,6 +57,10 @@
     .custom-image {
         width: 600px;
         height: 600px;
+    }
+
+    .custom-margin-top-nav-fixed-top{
+        margin-top: 3%;
     }
   }
   
